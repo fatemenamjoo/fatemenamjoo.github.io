@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html>
-<title>W3.CSS</title>
+<title>myfirstweb</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<link rel="stylesheet" href="https://github.com/fatemenamjoo/fatemenamjoo.github.io">
 <body>
 
 <div class="w3-container">
-  <h2>W3.CSS Login Modal</h2>
+  <h3>fateme namjoo</h3>
+  <p>computer science student at sadjad university of technology</p>
+  <h2>my web Login Modal</h2>
 
   <button onclick="document.getElementById('id01').style.display='block'" class="w3-btn w3-green w3-large">Login</button>
 
@@ -15,7 +17,7 @@
 
       <div class="w3-center"><br>
         <span onclick="document.getElementById('id01').style.display='none'" class="w3-closebtn w3-hover-red w3-container w3-padding-8 w3-display-topright" title="Close Modal">×</span>
-        <img src="img_avatar4.png" alt="Avatar" style="width:30%" class="w3-circle w3-margin-top">
+        <img src="20200529_151000.png" alt="Avatar" style="width:30%" class="w3-circle w3-margin-top">
       </div>
 
       <form class="w3-container" action="form.asp">
